@@ -9,7 +9,7 @@ Currently, I'm diving into the DIO Python AI Backend Developer bootcamp  to shar
 
  While I have a soft spot for frontend work, I'm also loving exploring backend development. 
 
-## < Skills />
+## Skills
 
 Currently, I am studying and working on projects using the tools and languages mentioned below, but I always strive to learn more languages and tools. For me, knowledge is continuous.
 
