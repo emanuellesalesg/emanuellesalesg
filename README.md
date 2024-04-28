@@ -14,11 +14,19 @@ Currently, I'm diving into the DIO Python AI Backend Developer bootcamp  to shar
 Currently, I am studying and working on projects using the tools and languages mentioned below, but I always strive to learn more languages and tools. For me, knowledge is continuous.
 
 #### < Front-end />
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) ![Typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=yellow)
+
+#### < Libraries and Frameworks />
+![Tailwindcss](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=Tailwindcss&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### < Back-end />
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### < Databases />
+![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=ffffff)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=MariaDB&logoColor=ffffff)
+
 
 #### < Tools />
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
